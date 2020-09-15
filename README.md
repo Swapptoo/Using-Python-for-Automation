@@ -1,3 +1,9 @@
+# Learning on LinkedIn #
+
+This is the compilation of related project/file from the online class.  
+
+Skills covered in this course
+
 Learning Objectives:  
 * Reading and writing files  
 * Organizing directories  
