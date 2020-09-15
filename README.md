@@ -1,3 +1,8 @@
-# hello-world
-this is only a testing repository and for learning purposes of github
-hi my name is muhammad harith bin zainudin
+Learning Objectives:
+*Reading and writing files
+*Organizing directories
+*Web scraping with Beautiful Soup
+*Automating web browsing with Selenium
+*Automating with APIS
+*Creating API requests
+*Linking API calls
