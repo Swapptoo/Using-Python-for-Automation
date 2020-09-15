@@ -1,8 +1,10 @@
-# Learning on LinkedIn #
+# LinkedIn: Using Python for Automation #
 
 This is the compilation of related project/file from the online class.  
 
-Skills covered in this course
+Skills covered in this course:  
+* Process Automation  
+* Python  
 
 Learning Objectives:  
 * Reading and writing files  
