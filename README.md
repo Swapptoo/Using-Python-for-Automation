@@ -6,6 +6,8 @@ Skills covered in this course:
 * Process Automation  
 * Python  
 
+
+
 Learning Objectives:  
 * Reading and writing files  
 * Organizing directories  
